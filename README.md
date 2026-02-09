@@ -1,5 +1,7 @@
+<ul>
 <b>
-- Task 1 included scarping (Extracting)
-- Task 2 included Transform and Load
-- Task 3 incuded Analyse
+  <li>Task 1 included scarping (Extracting)</li> 
+  <li>Task 2 included Transform and Load</li>
+  <li>Task 3 incuded Analyse</li>
 </b>
+</ul>
